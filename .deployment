@@ -1,2 +1,2 @@
-[project]
-command = ./tyler.js
+[config]
+project = ./tyler.js
