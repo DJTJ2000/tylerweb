@@ -1,4 +1,4 @@
 pwd
 ls
 npm install
-node tyler.js
+nohup node tyler.js
