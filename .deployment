@@ -1,2 +1,2 @@
 [config]
-command = ls
+command = ./startup.sh
