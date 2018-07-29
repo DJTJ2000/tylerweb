@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "@latest"
+    "express": "latest"
   }
 }
